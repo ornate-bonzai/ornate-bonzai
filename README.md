@@ -51,7 +51,7 @@ I'm Alex, a passionate software engineer with a love for architecting scalable c
 
 ## 🌟 Featured Projects
 
-- **[DataVizPy](https://github.com/ornate-bonzai/DataVizPy):**  
+- **[netflix-movies-and-tv-shows](https://github.com/ornate-bonzai/netflix-movies-and-tv-shows):**  
   Maintainer of a Python data visualization library (1,000+ ⭐️).
 - **[TaskBlox](https://github.com/ornate-bonzai/TaskBlox):**  
   Real-time collaborative task manager built with React & Firebase.
