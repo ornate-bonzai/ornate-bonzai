@@ -29,7 +29,14 @@ I'm Alex, a passionate software engineer with a love for architecting scalable c
 
 ## 🏢 Professional Experience
 
-### **CloudSync Solutions** (2022–Present) — Senior Software Engineer
+### **Netflix** (2024–Present) — Senior Software Engineer, Cloud Platform
+- Spearheading the design and rollout of scalable, multi-region cloud infrastructure supporting millions of global users
+- Led cross-functional initiative to optimize streaming reliability, reducing incident rates by 35%
+- Mentored engineers on distributed systems and cloud-native best practices
+- **Tech:** Go, Python, AWS, Kubernetes, Terraform, Spinnaker
+
+
+### **Cloudy Solutions** (2022–2024) — Senior Software Engineer
 - Lead a team of 5 developing enterprise-grade, cloud-native applications
 - Architected a microservices platform — improved system uptime by 30%
 - Built CI/CD pipelines reducing deployment times by 40%
