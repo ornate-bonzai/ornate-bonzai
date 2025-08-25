@@ -16,6 +16,8 @@ I'm Alex, a passionate software engineer with a love for architecting scalable c
 - 🚀 Currently leading a talented engineering team at **CloudSync Solutions**
 - 🧩 Open-source enthusiast & active mentor for young women in STEM
 
+<details><summary>More...</summary>
+  
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -81,3 +83,5 @@ I'm Alex, a passionate software engineer with a love for architecting scalable c
 ---
 
 > “The best way to predict the future is to invent it.” — Alan Kay
+
+</details>
